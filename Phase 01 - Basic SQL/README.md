@@ -21,3 +21,11 @@ Skills Learned
 - Sort results
 - Display unique values
 - Limit output
+
+# Current Phase
+
+- Basic SQL
+
+# Next Phase
+
+- Filtering
