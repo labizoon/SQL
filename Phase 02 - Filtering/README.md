@@ -24,3 +24,15 @@
 ## Learning Outcome
 
 After completing this phase, I can filter records using different SQL operators and retrieve precise data based on conditions.
+
+## Previous Phase
+
+- Basic SQL
+
+## Cureent Phase
+
+- Filtering
+
+## Next Phase
+
+-  Functions
