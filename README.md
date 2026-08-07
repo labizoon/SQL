@@ -16,9 +16,16 @@ This repository documents my journey from SQL basics to advanced SQL.
 - Phase 10 - Views
 - Phase 11 - Indexes
 - Phase 12 - Stored Procedures
-- Phase 13 - Triggers
-- Phase 14 - Transactions
-- Phase 15 - Database Design
+- Phase 13-Triggers
+- Phase 14-Transactions
+- Phase 15-User-Defined-Functions (UDFs)
+- Phase 16-Database-Constraints
+- Phase 17-Temporary-Tables
+- Phase 18-Database-Optimization
+- Phase 19-Execution-Plans (EXPLAIN)
+- Phase 20-Database-Security-and-Users
+- Phase 21-Backup-and-Restore
+- Phase 22-Advanced-SQL-Projects
 - Projects
 
 Each phase contains examples and practice queries.
