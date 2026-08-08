@@ -23,3 +23,16 @@ After completing this folder, you will be able to:
 - Build correlated subqueries.
 - Use subqueries inside SELECT and FROM.
 - Solve real-world SQL problems using subqueries.
+
+
+## Previous Phase
+
+-  Joins
+
+## Cureent Phase
+
+-  Subqueries
+
+## Next Phase
+
+-  Set Operators
