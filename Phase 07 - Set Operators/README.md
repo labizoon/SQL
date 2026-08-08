@@ -26,3 +26,15 @@ Sample HR-style database containing employees, departments, and managers.
 
 you can make it by yourself or can get it from other sources.
 
+
+## Previous Phase
+
+-  Subqueries
+
+## Cureent Phase
+
+- Set Operators
+
+## Next Phase
+
+-  Window Functions
