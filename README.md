@@ -29,3 +29,22 @@ This repository documents my journey from SQL basics to advanced SQL.
 - Projects
 
 Each phase contains examples and practice queries.
+
+
+
+## Current Learning Progress
+
+- Basic SQL
+- Joins
+- Subqueries
+- Views
+- Indexes
+- CTEs
+- Window Functions
+- Set Operators
+- Stored Procedures
+- Triggers
+- Transactions
+- Data Warehousing
+- ETL
+- HR Analytics Database
